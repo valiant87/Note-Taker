@@ -7,7 +7,8 @@
 - [Tech Used](#Tech-Used)
 - [License](#License)
 - [Questions](#Questions)
-
+---
+![(https://www.youtube.com/watch?v=YC1w9Uqbtfg)](assets/note-taker.png)
 [👉 Heroku Link]()
 
 ## About-the-project
