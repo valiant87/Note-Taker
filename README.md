@@ -12,7 +12,7 @@
 
 [🎬 Video](https://www.youtube.com/watch?v=YC1w9Uqbtfg)
 
-[👉 Heroku Link]()
+[👉 Heroku Link](https://sleepy-temple-09636.herokuapp.com/notes)
 
 ## About-the-project
 
