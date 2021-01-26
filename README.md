@@ -11,6 +11,7 @@
 ![Demo](assets/note-taker.png)
 
 [🎬 Video](https://www.youtube.com/watch?v=YC1w9Uqbtfg)
+
 [👉 Heroku Link]()
 
 ## About-the-project
